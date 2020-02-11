@@ -1,0 +1,40 @@
+
+body
+{
+   background-color: #ebe2c6;	
+}
+
+h1
+{
+	color: #b4211a;
+}
+
+content
+{
+	background-color: #343a4a;
+	color: #ffffff;
+	width: ;
+}
+
+navbar
+{
+	background-color: #1c2230;
+	padding: 10px;
+}
+
+navbar a
+{
+	background-color: #1c2230;
+	color: white;
+}
+
+main
+{
+	background-color: #6e8c8e;
+	margin: 30px;
+}
+
+side
+{
+	background-color: #869fa1;
+}
