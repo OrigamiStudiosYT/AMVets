@@ -1,4 +1,4 @@
-
+/* ********************************    GENERAL ITEMS   *********************************** */
 body
 {
    background-color: #ebe2c6;	
@@ -13,13 +13,14 @@ content
 {
 	background-color: #343a4a;
 	color: #ffffff;
-	width: ;
+	width: 90vw;
 }
 
 navbar
 {
 	background-color: #1c2230;
 	padding: 10px;
+	display:inline-block
 }
 
 navbar a
